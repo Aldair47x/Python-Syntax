@@ -1,3 +1,5 @@
+from sys import argv
+
 # Strings
 
 print('Hello Mowin!')
@@ -31,5 +33,7 @@ False
     "name": "Aldair",
     "lastname": "Bernal",
 }
+
+print(argv)
 
 

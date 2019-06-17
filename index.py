@@ -37,4 +37,20 @@
 
 #-----------Numbers
 
+#-----------lists
+
+#-----------tuples
+
+#-----------Sets
+
+#-----------Dictionaries
+
+#-----------Conditionals
+
+#-----------loops
+
+#-----------functions
+
+
+
 
